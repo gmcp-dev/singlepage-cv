@@ -1,6 +1,6 @@
 # Single-Page CV
 
-Repositorio con una página web simple de currículum en un solo archivo HTML sugerido por <a href="https://github.com/gmcp-dev/singlepage-cv">Roadmap.sh</a> para practicar.
+Repositorio con una página web simple de currículum en un solo archivo HTML sugerido por [Roadmap.sh/singlepageCV](https://roadmap.sh/projects/single-page-cv) para practicar.
 
 ## Clonar el repositorio
 
